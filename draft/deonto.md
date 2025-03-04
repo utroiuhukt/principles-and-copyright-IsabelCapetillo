@@ -1,9 +1,8 @@
 # ¿Cuáles son las “Cuatro Libertades” definidas por la Free Software Foundation?
-1. Las Cuatro Libertades del software libre, según la Free Software Foundation (FSF), son:
-2. Libertad 0: La libertad de usar el programa para cualquier propósito.
-3. Libertad 1: La libertad de estudiar cómo funciona el programa y adaptarlo a tus necesidades.
-4. Libertad 2: La libertad de distribuir copias del programa para ayudar a otros.
-5. Libertad 3: La libertad de mejorar el programa y hacer públicas esas mejoras, de modo que toda la comunidad se beneficie.
+1. Libertad 0: La libertad de usar el programa para cualquier propósito.
+2. Libertad 1: La libertad de estudiar cómo funciona el programa y adaptarlo a tus necesidades.
+3. Libertad 2: La libertad de distribuir copias del programa para ayudar a otros.
+4. Libertad 3: La libertad de mejorar el programa y hacer públicas esas mejoras, de modo que toda la comunidad se beneficie.
 
 # ¿Cómo justifica el Manifiesto GNU la importancia ética del software libre?
 El Manifiesto GNU justifica la importancia ética del software libre basándose en principios de cooperación, solidaridad y libertad. Algunos puntos clave son:
