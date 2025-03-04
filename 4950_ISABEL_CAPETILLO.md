@@ -18,7 +18,7 @@ utiliza licencias como la GPL (GNU General Public License) para garantizar estas
 la colaboración y la innovación técnica. Este enfoque, impulsado por la Open Source Initiative (OSI), no necesariamente prioriza las libertades éticas, sino la disponibilidad del código para su mejora y uso. En resumen, 
 mientras el software libre aboga por la libertad como un principio ético, el código abierto se concentra en las ventajas prácticas de compartir el código.
 
-### Reflexión crítica
+### Reflexión crítica (EL BLOG DE ANNA)
 El artículo de Anna's Archive plantea un dilema ético profundo y complejo: la tensión entre los derechos de autor y el acceso universal al conocimiento. Por un lado, los derechos de autor buscan proteger 
 a los creadores y garantizar que reciban una compensación justa por su trabajo. Por otro, iniciativas como Anna's Archive argumentan que el conocimiento debe ser libre y accesible para todos, especialmente
 en un mundo donde la información se ha convertido en un recurso crucial para el avance tecnológico, científico y cultural. Este dilema se intensifica con el surgimiento de la inteligencia artificial, que depende 
